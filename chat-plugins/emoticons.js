@@ -23,7 +23,7 @@ var emotes = {
 	'feelsnv': 'http://i.imgur.com/XF6kIdJ.png',
 	'feelsok': 'http://i.imgur.com/gu3Osve.png',
 	'feelspika': 'http://i.imgur.com/mBq3BAW.png',
-	'feelspink': 'http://i.imgur.com/jqfB8Di.png',
+	':meme:': 'http://i.imgur.com/RKyG6Kv.jpg',
 	'feelspn': 'http://i.imgur.com/wSSM6Zk.png',
 	'feelspr': 'http://i.imgur.com/3VtkKfJ.png',
 	'feelsrg': 'http://i.imgur.com/DsRQCsI.png',
@@ -37,7 +37,7 @@ var emotes = {
 	'oshet': 'http://i.imgur.com/yr5DjuZ.png',
 	'Sanic': 'http://i.imgur.com/Y6etmna.png',
 	'wtfman': 'http://i.imgur.com/kwR8Re9.png',
-	'xaa': 'http://i.imgur.com/V728AvL.png',
+	'yaoming': 'http://i.imgur.com/SF7jh7Q.jpg',
 	'yayface': 'http://i.imgur.com/anY1jf8.png',
 	'yesface': 'http://i.imgur.com/k9YCF6K.png'
 };
