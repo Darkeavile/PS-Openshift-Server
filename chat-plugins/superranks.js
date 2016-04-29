@@ -5,7 +5,7 @@ var fs = require('fs');
 global.SuperRanks = {
 	ranks: {},
 	isHoster: function (userid) {
-		if (userid === 'kevinxzllz') return true;
+		if (userid === 'Darkeavile') return true;
 		if (this.ranks[userid] && this.ranks[userid] === "h") return true;
 		return false;
 	},
@@ -57,7 +57,7 @@ exports.commands = {
 		var nameTable = {
 			h: "Hoster",
 			o: "Owner",
-			a: "Admin Director"
+			a: "Admin Superior"
 		};
 		this.sendReply("User " + name + " is now " + nameTable[toRank]);
 	},
