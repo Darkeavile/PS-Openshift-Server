@@ -9,13 +9,13 @@ var color = require('../config/color');
 exports.parseEmoticons = parseEmoticons;
 
 var emotes = {
-	'(ditto)': 'https://cdn.betterttv.net/emote/554da1a289d53f2d12781907/2x',
+	'doge': 'http://orig04.deviantart.net/7c5b/f/2014/279/4/5/doge__by_honeybunny135-d81wk54.png',
 	'#freewolf': 'http://i.imgur.com/ybxWXiG.png',
 	'feelsbd': 'http://i.imgur.com/YyEdmwX.png',
 	'feelsbm': 'http://i.imgur.com/xwfJb2z.png',
 	'feelsbn': 'http://i.imgur.com/wp51rIg.png',
 	'feelsdd': 'http://i.imgur.com/fXtdLtV.png',
-	'feelsdoge': 'http://i.imgur.com/GklYWvi.png',
+	':dance:': 'https://cdn.betterttv.net/emote/56396c857e538de14bd747a5/2x',
 	'feelsgd': 'http://i.imgur.com/Jf0n4BL.png',
 	'feelsgn': 'http://i.imgur.com/juJQh0J.png',
 	'feelshp': 'http://i.imgur.com/1W19BDG.png',
